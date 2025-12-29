@@ -1,7 +1,7 @@
 # 📑 RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
-Data: 10/12/2025__
-Empresa: Abstergo Industries
-Responsável: Juliana Pessoa Panini
+### Data: 10/12/2025
+### Empresa: Abstergo Industries
+### Responsável: Juliana Pessoa Panini
 
 ## 📌 Introdução
 Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por João Silva.
