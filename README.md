@@ -1,7 +1,7 @@
 # Redução dos Custos em Farmácias com AWS
 
 ## 💊 Plataforma Virtual de Farmácia - AWS
-📌 Descrição
+### 📌 Descrição
 Projeto fictício de uma plataforma virtual para farmácia, desenvolvido com infraestrutura AWS.
 Objetivo: aplicar conceitos de computação em nuvem em um cenário prático e dinâmico.
 
