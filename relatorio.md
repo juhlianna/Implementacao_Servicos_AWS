@@ -1,6 +1,6 @@
 # 📑 RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
-### Data: 10/12/2025
-### Empresa: Abstergo Industries
+### Data: 29/12/2025
+### Empresa: Cuidar+ Saude
 ### Responsável: Juliana Pessoa Panini
 
 ## 📌 Introdução
