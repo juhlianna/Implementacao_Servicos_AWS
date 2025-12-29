@@ -1,6 +1,6 @@
 # 📑 RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 ### Data: 29/12/2025
-### Empresa: Cuidar+ Saude
+### Empresa: Cuidar Mais Saude
 ### Responsável: Juliana Pessoa Panini
 
 ## 📌 Introdução
