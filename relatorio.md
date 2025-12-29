@@ -43,7 +43,7 @@ Aumento da segurança e confiabilidade dos dados.
 Recomenda-se a continuidade da utilização das ferramentas implementadas e a avaliação de novos serviços AWS, como Amazon CloudFront e AWS Cost Explorer, para ampliar ainda mais a eficiência e otimização de recursos.
 
 ## 📎 Anexos
-(https://aws.amazon.com/pt/ec2/?nc2=h_ql_prod_fs_ec2 <br>)
+. https://aws.amazon.com/pt/ec2/?nc2=h_ql_prod_fs_ec2 <br>
 
 ## Assinatura do Responsável pelo Projeto:
 
