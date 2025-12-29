@@ -1,7 +1,7 @@
 # 📑 RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 Data: 10/12/2025
 Empresa: Abstergo Industries
-Responsável: João Silva
+Responsável: Juliana Pessoa Panini
 
 ## 📌 Introdução
 Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por João Silva.
@@ -25,11 +25,11 @@ Foco: Computação sem servidor (serverless)
 Caso de uso: Automação de processos internos, como geração de relatórios e processamento de dados, eliminando a necessidade de servidores dedicados e reduzindo custos de infraestrutura.
 
 🔹 Etapa 3
-Serviço: Amazon RDS
+Serviço: Amazon EC2 (com instâncias otimizadas)
 
-Foco: Banco de dados gerenciado
+Foco: Computação escalável sob demanda
 
-Caso de uso: Migração de banco de dados on-premise para RDS, garantindo alta disponibilidade, backups automáticos e menor custo de manutenção.
+Caso de uso: Migração de workloads críticos para instâncias EC2 otimizadas, com escalabilidade automática e pagamento apenas pelo uso, reduzindo custos de infraestrutura física.
 
 ## ✅ Conclusão
 A implementação dos serviços AWS na empresa Abstergo Industries trouxe benefícios como:
@@ -53,4 +53,4 @@ Planilhas comparativas de custos antes e depois da implementação
 
 Assinatura do Responsável pelo Projeto:
 
-João Silva
+Juliana Pessoa Panini
