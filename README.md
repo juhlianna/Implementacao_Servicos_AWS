@@ -1,1 +1,0 @@
-# Implementacao_Servi-os_AWS
